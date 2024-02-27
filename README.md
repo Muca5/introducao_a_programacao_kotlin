@@ -1,7 +1,6 @@
 fun main() {
-    println("Monday")
-    println("Tuesday")
-    println("Wednesday")
-    println("Thursday")
-    println("Friday")
+    println("I'm")
+    println("Learning")
+    println("Kotlin")
 }
+
